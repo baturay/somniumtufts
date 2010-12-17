@@ -1,0 +1,9 @@
+#summary It's so detailed that it even has a summary!
+
+= Introduction =
+
+Somnium even has a wiki page!
+
+= Details =
+
+With no details at all!
